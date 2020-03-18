@@ -1,0 +1,67 @@
+Traceback (most recent call last):
+  File "/home/daniel/Coding/automate-the-boring-stuff/debugging/formatTracebacks.py", line 7, in <module>
+    raise Exception("This is the error message")
+Exception: This is the error message
+Traceback (most recent call last):
+  File "/home/daniel/Coding/automate-the-boring-stuff/debugging/formatTracebacks.py", line 7, in <module>
+    raise Exception("This is the error message")
+Exception: This is the error message
+Traceback (most recent call last):
+  File "/home/daniel/Coding/automate-the-boring-stuff/debugging/formatTracebacks.py", line 7, in <module>
+    raise Exception("This is the error message")
+Exception: This is the error message
+Traceback (most recent call last):
+  File "/home/daniel/Coding/automate-the-boring-stuff/debugging/formatTracebacks.py", line 7, in <module>
+    raise Exception("This is the error message")
+Exception: This is the error message
+
+Traceback (most recent call last):
+  File "/home/daniel/Coding/automate-the-boring-stuff/debugging/formatTracebacks.py", line 7, in <module>
+    raise Exception("This is the error message")
+Exception: This is the error message
+
+Traceback (most recent call last):
+  File "/home/daniel/Coding/automate-the-boring-stuff/debugging/formatTracebacks.py", line 7, in <module>
+    raise Exception("This is the error message")
+Exception: This is the error message
+
+Traceback (most recent call last):
+  File "/home/daniel/Coding/automate-the-boring-stuff/debugging/formatTracebacks.py", line 7, in <module>
+    raise Exception("This is the error message")
+Exception: This is the error message
+
+Traceback (most recent call last):
+  File "/home/daniel/Coding/automate-the-boring-stuff/debugging/formatTracebacks.py", line 7, in <module>
+    raise Exception("This is the error message")
+Exception: This is the error message
+
+Traceback (most recent call last):
+  File "/home/daniel/Coding/automate-the-boring-stuff/debugging/formatTracebacks.py", line 7, in <module>
+    raise Exception("This is the error message")
+Exception: This is the error message
+
+Traceback (most recent call last):
+  File "/home/daniel/Coding/automate-the-boring-stuff/debugging/formatTracebacks.py", line 7, in <module>
+    raise Exception("This is the error message")
+Exception: This is the error message
+
+Traceback (most recent call last):
+  File "/home/daniel/Coding/automate-the-boring-stuff/debugging/formatTracebacks.py", line 7, in <module>
+    raise Exception("This is the error message")
+Exception: This is the error message
+
+Traceback (most recent call last):
+  File "/home/daniel/Coding/automate-the-boring-stuff/debugging/formatTracebacks.py", line 7, in <module>
+    raise Exception("This is the error message")
+Exception: This is the error message
+
+Traceback (most recent call last):
+  File "/home/daniel/Coding/automate-the-boring-stuff/debugging/formatTracebacks.py", line 7, in <module>
+    raise Exception("This is the error message")
+Exception: This is the error message
+
+Traceback (most recent call last):
+  File "/home/daniel/Coding/automate-the-boring-stuff/debugging/formatTracebacks.py", line 7, in <module>
+    raise Exception("This is the error message")
+Exception: This is the error message
+
