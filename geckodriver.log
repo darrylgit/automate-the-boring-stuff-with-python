@@ -70,3 +70,12 @@
 1584624295433	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
 1584624296600	Marionette	INFO	Listening on port 36353
 1584624296687	Marionette	WARN	TLS certificate errors will be ignored for this session
+1584628782051	Marionette	INFO	Stopped listening on port 36353
+1584628783562	Marionette	INFO	Stopped listening on port 42761
+1584628784793	Marionette	INFO	Stopped listening on port 32845
+1584628786001	Marionette	INFO	Stopped listening on port 44657
+1584628787269	Marionette	INFO	Stopped listening on port 38833
+1584628788527	Marionette	INFO	Stopped listening on port 46675
+1584628789577	Marionette	INFO	Stopped listening on port 39871
+1584628791180	Marionette	INFO	Stopped listening on port 42113
+1584628792498	Marionette	INFO	Stopped listening on port 34751
